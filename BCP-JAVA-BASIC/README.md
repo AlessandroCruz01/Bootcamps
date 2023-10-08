@@ -10,3 +10,11 @@
 
 ## POLIMORFISMO
 > São diferentes formas de fazer algo, ou seja, apenas declaramos uma função, onde sua implementação serão usados de diversas formas. Seguindo o contexto necessario naquela classe. Exemplo, calculo de ferias, temos apenas uma necessidade: "Calcular as ferias" mas dependendo do funcionario, da senioridade, do cargo e do setor do mercado esse calculo deve seguir outras logicas e meios para se chegar ao calculo final.
+
+## VARIAVEIS COM TIPOS PRIMITIVOS X REFERENCIA
+- **Tipos Primitivos:**
+    > São valores simples armazenados diretamente na memória.
+    > Não têm métodos associados a eles.
+- **Tipos por Referência:**
+    > São instâncias de classes armazenadas em áreas de memória mais complexas.
+    > Têm métodos associados a eles.
