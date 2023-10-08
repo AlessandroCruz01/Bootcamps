@@ -3,9 +3,14 @@
 
 public class Funcionario {
 
-    private String name;
-    private Integer idade;
-    private Double salario;
+    // Como na herança essa classe se tornou uma classe pai, devemos altera os atributos onde:
+    // Trocamos de Private -> Protected
+    // Private - Apenas a classe Funcionario tem acesso;
+    // Protected - A classe Funcionario e todos os seus filhos tem acesso;
+
+    protected String name;
+    protected Integer idade;
+    protected Double salario;
     
     // Constructor
     public Funcionario(String name, Integer idade, Double salario){
@@ -14,7 +19,7 @@ public class Funcionario {
         this.salario = salario;
     }
 
-    public static Double calcularDecimoTerceiroSalario(Double salario){
+    public Double calcularDecimoTerceiroSalario(Double salario){
         return salario + salario * 0.10;
     }
 
@@ -25,10 +30,12 @@ public class Funcionario {
             "Funcionario nome " + funcionarioInstance.name + "Funcionario idade " + funcionarioInstance.idade
         );  
 
-        Double decimoTerceiro = calcularDecimoTerceiroSalario(funcionarioInstance.salario);
+        // Double decimoTerceiro = calcularDecimoTerceiroSalario(funcionarioInstance.salario);
 
-        System.out.println(
-            "Decimo Terceiro " + decimoTerceiro
-        );
+        // System.out.println(
+        //     "Decimo Terceiro " + decimoTerceiro
+        // );
     }
+
+
 }
