@@ -1,18 +1,3 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+# JAVA BASIC
+## ABSTRAÇÃO
+> Na abstração temos a ideia de pegar objetos do mundo real para usálos. EXEMPLO - Quando temo o objeto VENDEDOR, é algo abstrato pois nao temos a informação sobre o que ele vende ou quando ele vende. Mas temos atributos genericos que sao comuns a todos os vendedores. Ou seja, todos os vendedores recebem salario, todos os vendedores tem uma idade ou todos os vendedores tem um nome
