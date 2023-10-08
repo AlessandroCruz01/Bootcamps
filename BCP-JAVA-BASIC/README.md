@@ -18,3 +18,6 @@
 - **Tipos por Referência:**
     > São instâncias de classes armazenadas em áreas de memória mais complexas.
     > Têm métodos associados a eles.
+
+## ESTRUTURA DE CONTROLES DE FLUXO
+> Serve para ter o controle em que os processos serão executados. Ex: If-Else, for, while;
