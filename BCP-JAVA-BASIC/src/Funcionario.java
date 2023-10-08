@@ -1,7 +1,7 @@
 // ABSTRAÇÃO - Quando trazemos algo abstrato do mundo real para usar em codigo. 
 // EXEMPLO - Quando temo o objeto VENDEDOR, é algo abstrato pois nao temos a informação sobre o que ele vende ou quando ele vende. Mas temos atributos genericos que sao comuns a todos os vendedores. Ou seja, todos os vendedores recebem salario, todos os vendedores tem uma idade ou todos os vendedores tem um nome
 
-public class Funcionario {
+public class Funcionario { 
 
     // Como na herança essa classe se tornou uma classe pai, devemos altera os atributos onde:
     // Trocamos de Private -> Protected

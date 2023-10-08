@@ -7,3 +7,6 @@
 
 ## HERANÇA
 > Na Programação Orientada a Objetos o significado de herança tem o mesmo significado para o mundo real. Assim como um filho pode herdar alguma característica do pai, na Orientação a Objetos é permitido que uma classe herde atributos e métodos da outra, tendo apenas uma restrição para a herança. Os modificadores de acessos das classes, métodos e atributos só podem estar com visibilidade public e protected para que sejam herdados.
+
+## POLIMORFISMO
+> São diferentes formas de fazer algo, ou seja, apenas declaramos uma função, onde sua implementação serão usados de diversas formas. Seguindo o contexto necessario naquela classe. Exemplo, calculo de ferias, temos apenas uma necessidade: "Calcular as ferias" mas dependendo do funcionario, da senioridade, do cargo e do setor do mercado esse calculo deve seguir outras logicas e meios para se chegar ao calculo final.
