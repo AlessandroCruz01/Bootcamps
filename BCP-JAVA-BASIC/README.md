@@ -33,3 +33,12 @@
 > Objetos - Se caracteriza por ter atributos e caracteristicas;
 > Classe - Se caracteriza poor nao ter atributos e sim métodos;
 > Métodos - Sao ações que retornam algum resultado;
+
+## Arrays e coleções
+> Array - Estrutura de dados que armazena dados do mesmo tipo que por padrão inicia a partir do indicie 0;
+>> Ex: [1,2,3,4] ou ["a", "b", "c"];
+
+> Collection - Collections Framework é um conjunto bem definido de interfaces e classes para representar e tratar grupos de dados como uma única unidade;
+>> Ex: No ArrayList ele estende uma collection que nos da a capacidade de criar listas mais dinamicas; 
+
+>> tendo tambem a capacidade de termos metodos disponiveis que facilitam na tratativa desta estrutura de dados; Ex: .size(); .add();
