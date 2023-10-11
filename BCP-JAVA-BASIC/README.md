@@ -28,3 +28,8 @@
 >> while - laço de repetição (enquanto)
 
 >> switch - Valida caso a caso
+
+## Objetos, Classs e métodos:
+> Objetos - Se caracteriza por ter atributos e caracteristicas;
+> Classe - Se caracteriza poor nao ter atributos e sim métodos;
+> Métodos - Sao ações que retornam algum resultado;
