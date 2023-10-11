@@ -22,6 +22,9 @@
 ## ESTRUTURA DE CONTROLES DE FLUXO
 > Serve para ter o controle em que os processos serão executados. Ex: If-Else, for, while;
 >> If-else = se - se não
+
 >> for - laço de repetição
+
 >> while - laço de repetição (enquanto)
+
 >> switch - Valida caso a caso
