@@ -42,3 +42,6 @@
 >> Ex: No ArrayList ele estende uma collection que nos da a capacidade de criar listas mais dinamicas; 
 
 >> tendo tambem a capacidade de termos metodos disponiveis que facilitam na tratativa desta estrutura de dados; Ex: .size(); .add();
+
+## Manipulação de excecoes
+> Sao quando tratamos os  possiveis erros para retornar uma mensagem mais amigavel para o usuario - Try Catch
